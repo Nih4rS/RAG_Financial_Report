@@ -1,0 +1,60 @@
+# requirements.txt for AI-Powered Financial Analyst Project
+
+# Core Python Libraries
+numpy
+pandas
+requests
+beautifulsoup4
+
+# Financial Data Extraction
+yfinance
+sec-edgar-downloader
+
+# Machine Learning & NLP
+transformers
+torch
+sentence-transformers
+scikit-learn
+scipy
+faiss-cpu
+
+# Fine-Tuning & Optimization
+peft
+bitsandbytes
+accelerate
+optimum
+
+# Retrieval-Augmented Generation (RAG)
+langchain
+chromadb
+tiktoken
+
+# Sentiment Analysis & Financial Processing
+textblob
+nltk
+spacy
+openai
+
+# Automation & Scheduling
+gitpython
+schedule
+
+# Web Scraping
+lxml
+selenium
+undetected-chromedriver
+
+# Deployment & API
+fastapi
+uvicorn
+streamlit
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# CI/CD & GitHub Integration
+github-actions
+pytest
+flake8
