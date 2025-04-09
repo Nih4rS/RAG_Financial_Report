@@ -58,3 +58,9 @@ plotly
 github-actions
 pytest
 flake8
+
+
+boto3 
+crewai 
+crewai_tools 
+langchain_community
